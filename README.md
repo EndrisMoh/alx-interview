@@ -1,3 +1,3 @@
-## 0x00-pascal_triangle
+## ALX Interview 
 
-This directory is about Pascal's_triangle
+This repo is about ALX Interview questions
