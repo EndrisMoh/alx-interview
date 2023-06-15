@@ -2,7 +2,8 @@
 """
  Making change
 """
- 
+
+
 def makeChange(coins, total):
     """
     Returns the fewest number of coins needed to meet a given amount total.
